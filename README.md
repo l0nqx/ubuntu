@@ -48,11 +48,11 @@ rm -rf ubuntu-fs
 ## Desktop Environment
 
 on Ubuntu, run this command :
-> apt update ; apt upgrade
+> apt update && apt upgrade
 
 <details></br>
 <summary><b><code>Install Desktop Xfce</code></b></summary>
-<p align="center"><img src="https://raw.githubusercontent.com/wahasa/Ubuntu/main/Images/xfce.jpg"</p>
+<p align="center"><img src="https://raw.githubusercontent.com/l0nqx/ubuntu/main/Images/xfce.jpg"</p>
 
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
@@ -61,7 +61,7 @@ apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/D
 
 <details></br>
 <summary><b><code>Install Desktop Lxde</code></b></summary>
-<p align="center"><img src="https://raw.githubusercontent.com/wahasa/Ubuntu/main/Images/lxde.jpg"</p>
+<p align="center"><img src="https://raw.githubusercontent.com/l0nqx/ubuntu/main/Images/lxde.jpg"</p>
 
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/Desktop/de-lxde.sh ; chmod +x de-lxde.sh ; ./de-lxde.sh
@@ -70,7 +70,7 @@ apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/D
 
 <details></br>
 <summary><b><code>Install Desktop Lxqt</code></b></summary>
-<p align="center"><img src="https://raw.githubusercontent.com/wahasa/Ubuntu/main/Images/lxqt.jpg"</p>
+<p align="center"><img src="https://raw.githubusercontent.com/l0nqx/ubuntu/main/Images/lxqt.jpg"</p>
 
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/Desktop/de-lxqt.sh ; chmod +x de-lxqt.sh ; ./de-lxqt.sh
@@ -79,7 +79,7 @@ apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/D
 
 <details></br>
 <summary><b><code>Install Desktop Kde</code></b></summary>
-<p align="center"><img src="https://raw.githubusercontent.com/wahasa/Ubuntu/main/Images/kde.jpg"</p>
+<p align="center"><img src="https://raw.githubusercontent.com/l0nqx/ubuntu/main/Images/kde.jpg"</p>
 
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/Desktop/de-kde.sh ; chmod +x de-kde.sh ; ./de-kde.sh
