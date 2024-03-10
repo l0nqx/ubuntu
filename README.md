@@ -18,12 +18,12 @@ Copy and paste this command to Termux :
 
 * Ubuntu 24.04 (Noble Numbat)
 ```
-pkg install wget -y ; wget | ; chmod +x ubuntu24.04.sh ; ./ubuntu24.04.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/Install/ubuntu24.04.sh ; chmod +x ubuntu24.04.sh ; ./ubuntu24.04.sh
 ```
 
 * Ubuntu 23.10 (Mantic Minotaur)
 ```
-pkg install wget -y ; wget | ; chmod +x ubuntu23.10.sh ; ./ubuntu23.10.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/Install/ubuntu23.10.sh ; chmod +x ubuntu23.10.sh ; ./ubuntu23.10.sh
 ```
 
 </details>
