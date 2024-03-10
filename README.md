@@ -10,8 +10,8 @@ Visit problems now in : [Issues](https://github.com/l0nqx/ubuntu/issues)
 
 ## Installation
 
-Copy and paste this command to Termux :
-> pkg update ; pkg upgrade
+Copy and paste in termux
+> pkg update -y
 
 <details></br>
 <summary><b><code>Install Ubuntu</code></b></summary>
