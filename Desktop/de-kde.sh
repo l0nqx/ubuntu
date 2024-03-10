@@ -54,7 +54,7 @@ mv sources.list /etc/apt/
 rm .vnc/passwd
    clear
    echo ""
-   echo "Vnc Server address will run at 127.0.0.1:5901"
+   echo "Vnc Server address will run at localhost:1"
    echo "Start Vnc Server, run vnc-start"
    echo "Stop  Vnc Server, run vnc-stop"
    echo ""
