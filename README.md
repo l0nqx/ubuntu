@@ -55,7 +55,7 @@ on Ubuntu, run this command :
 <p align="center"><img src="https://raw.githubusercontent.com/wahasa/Ubuntu/main/Images/xfce.jpg"</p>
 
 ```
-apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
+apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
 ```
 </details>
 
@@ -64,7 +64,7 @@ apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/
 <p align="center"><img src="https://raw.githubusercontent.com/wahasa/Ubuntu/main/Images/lxde.jpg"</p>
 
 ```
-apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Desktop/de-lxde.sh ; chmod +x de-lxde.sh ; ./de-lxde.sh
+apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/Desktop/de-lxde.sh ; chmod +x de-lxde.sh ; ./de-lxde.sh
 ```
 </details>
 
@@ -73,7 +73,7 @@ apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/
 <p align="center"><img src="https://raw.githubusercontent.com/wahasa/Ubuntu/main/Images/lxqt.jpg"</p>
 
 ```
-apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Desktop/de-lxqt.sh ; chmod +x de-lxqt.sh ; ./de-lxqt.sh
+apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/Desktop/de-lxqt.sh ; chmod +x de-lxqt.sh ; ./de-lxqt.sh
 ```
 </details>
 
@@ -82,7 +82,7 @@ apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/
 <p align="center"><img src="https://raw.githubusercontent.com/wahasa/Ubuntu/main/Images/kde.jpg"</p>
 
 ```
-apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Desktop/de-kde.sh ; chmod +x de-kde.sh ; ./de-kde.sh
+apt install wget -y ; wget https://raw.githubusercontent.com/l0nqx/ubuntu/main/Desktop/de-kde.sh ; chmod +x de-kde.sh ; ./de-kde.sh
 ```
 </details>
 
